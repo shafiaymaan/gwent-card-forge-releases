@@ -1,0 +1,49 @@
+Gwent Card Forge — Application License
+Copyright (c) 2026 shafiaymaan. All rights reserved.
+
+1. Permission to use
+You may download the official application, install and run it for personal,
+non-commercial use, and keep private backup copies. This permission is
+non-exclusive and does not transfer ownership of the application.
+
+2. Redistribution and branding
+Except as required by applicable law or the third-party licenses described
+below, you may not redistribute, sell, sublicense, publicly rehost, repackage
+or publish modified versions of this application without prior written
+permission from the copyright holder. You may not remove its copyright or
+author notices, rebrand it as your own, or claim authorship of the application.
+Please share the official download page instead of uploading the application.
+
+3. Your card projects and mods
+These application restrictions do not claim ownership of user-supplied
+pictures, text, projects or exported mods, or independently restrict their
+use or sharing. You remain responsible for the rights in their contents.
+
+4. Third-party rights take precedence
+This license covers only the original Gwent Card Forge application code and
+original documentation. It does not license or claim ownership of Qt,
+PySide6, Shiboken, Python, Pillow, PyInstaller, game artwork, trademarks or
+other third-party material. Their respective licenses and legal rights
+remain in force and take precedence over conflicting application terms.
+See _internal/THIRD-PARTY for bundled notices and Qt source information.
+
+In particular, you may replace or modify the dynamically linked LGPL
+libraries and reverse engineer this combined application for debugging
+those library modifications as permitted by the LGPL. No application term
+restricts modification of those libraries or the rights granted by their
+licenses. The application includes no activation requirement or mechanism
+preventing replacement of those libraries.
+
+The Witcher and associated artwork and trademarks belong to CD PROJEKT RED
+and their respective rights holders. This is an unofficial tool and is not
+affiliated with or endorsed by CD PROJEKT RED. No rights to their material
+are granted by this application license.
+
+5. Warranty
+To the extent permitted by applicable law, this application is supplied
+"as is", without warranties of any kind. The copyright holder is not liable
+for loss or damage arising from its use. Statutory rights that cannot be
+excluded remain unaffected.
+
+Official publisher: https://github.com/shafiaymaan
+Official downloads: https://github.com/shafiaymaan/gwent-card-forge-releases
